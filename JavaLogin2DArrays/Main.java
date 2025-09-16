@@ -7,7 +7,7 @@ public class Main{
         String[][] accounts = {
             {"jem","jem123","Biyaya404"},
             {"pochie","pochie123","MaPagMahalL_#22"},
-            {"juan","juan23","Juan23Four5"}
+            {"juan","juan23","Juan23FourFive"}
         };
 
         System.out.println("===LOGIN YOUR ACCOUNT===");
@@ -35,4 +35,5 @@ public class Main{
         input.close();
 
     }
+
 }
