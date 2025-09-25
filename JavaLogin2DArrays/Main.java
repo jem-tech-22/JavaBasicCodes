@@ -10,7 +10,7 @@ public class Main{
             {"juan","juan23","Juan23FourFive"}
         };
 
-        System.out.println("==LOGIN YOUR ACCOUNT==");
+        System.out.println("=LOGIN YOUR ACCOUNT=");
         
         System.out.print("Enter your username: ");
         String username = input.nextLine();
@@ -37,4 +37,5 @@ public class Main{
     }
 
 }
+
 
